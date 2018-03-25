@@ -1,7 +1,7 @@
 Zcash 1.0.15
 =============
 
-What is Zcash?
+What is VulkanCoin?
 --------------
 
 [VulkanCoin](http://www.vulkancoins.com/) is an implementation of the "Zerocash" protocol.
@@ -10,7 +10,7 @@ through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. Technical details are available
 in our [Protocol Specification](https://github.com/zcash/zips/raw/master/protocol/protocol.pdf).
 
-This software is the Zcash client. It downloads and stores the entire history
+This software is the VulkanCoin client. It downloads and stores the entire history
 of Zcash transactions; depending on the speed of your computer and network
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
