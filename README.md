@@ -4,7 +4,7 @@ Zcash 1.0.15
 What is Zcash?
 --------------
 
-[Zcash](https://z.cash/) is an implementation of the "Zerocash" protocol.
+[VulkanCoin](http://www.vulkancoins.com/) is an implementation of the "Zerocash" protocol.
 Based on Bitcoin's code, it intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. Technical details are available
